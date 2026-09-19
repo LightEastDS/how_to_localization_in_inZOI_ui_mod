@@ -1,0 +1,2 @@
+# how_to_localization_in_inZOI_ui_mod
+如何汉化inZOI中的UI类模组
